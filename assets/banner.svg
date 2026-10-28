@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420" role="img" aria-labelledby="title description">
+  <title id="title">Roshni Patel - Node.js and eCommerce Developer</title>
+  <desc id="description">A dark blue abstract banner with the name Roshni Patel and the role Node.js and eCommerce Developer.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="1" stop-color="#172b4d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58d5c9"/>
+      <stop offset="1" stop-color="#78a8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="420" rx="28" fill="url(#background)"/>
+  <circle cx="1275" cy="90" r="220" fill="#58d5c9" opacity=".08"/>
+  <circle cx="1390" cy="390" r="245" fill="#78a8ff" opacity=".09"/>
+  <path d="M1080 0h420v420h-125z" fill="#fff" opacity=".025"/>
+  <path d="M1120 420 1500 40" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M1230 420 1500 150" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+  <rect x="112" y="106" width="8" height="208" rx="4" fill="url(#accent)"/>
+  <text x="158" y="205" fill="#f4f7fb" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="1">Roshni Patel</text>
+  <text x="162" y="263" fill="#c7d2e2" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="400">Node.js &amp; eCommerce Developer</text>
+  <text x="162" y="310" fill="#80d9d0" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="2">BIGCOMMERCE  /  SHOPIFY  /  APIs</text>
+  <circle cx="1330" cy="212" r="7" fill="#58d5c9"/>
+  <circle cx="1362" cy="212" r="7" fill="#78a8ff"/>
+  <circle cx="1394" cy="212" r="7" fill="#c7d2e2" opacity=".75"/>
+</svg>
